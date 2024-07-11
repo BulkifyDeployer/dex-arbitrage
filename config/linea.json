@@ -1,0 +1,183 @@
+{
+  "arbContract": "0xB436d07B841C6FE93C2593d7e76EaECeE99f978a",
+  "minBasisPointsPerTrade": 30,
+  "routers": [
+    {
+      "dex": "LYNX",
+      "address": "0x610D2f07b7EdC67565160F587F37636194C34E74"
+    },
+    {
+      "dex": "SpectraV2",
+      "address": "0x4cB96E7f17eA50016dB841171a30899f0497c5dB"
+    },
+    {
+      "dex": "SushiSwap",
+      "address": "0x2ABf469074dc0b54d793850807E6eb5Faf2625b1"
+    },
+    {
+      "dex": "LeetSwap",
+      "address": "0xd3Ea3BC1F5A3F881bD6cE9761cbA5A0833a5d737"
+    },
+    {
+      "dex": "PancakeSwap",
+      "address": "0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb"
+    },
+    {
+      "dex": "LineHub",
+      "address": "0xA3Bd10B6e957ac63462CA14Ca201d4642Dff454d"
+    }
+  ],
+  "baseAssets": [
+    {
+      "sym": "WETH",
+      "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
+    }
+  ],
+  "tokens": [
+    {
+      "sym": "FOXY",
+      "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566"
+    },
+    {
+      "sym": "MENDI",
+      "address": "0x43e8809ea748eff3204ee01f08872f063e44065f"
+    },
+    {
+      "sym": "USDC",
+      "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff"
+    },
+    {
+      "sym": "ZERO",
+      "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7"
+    },
+    {
+      "sym": "LYNX",
+      "address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af"
+    },
+    {
+      "sym": "ezETH",
+      "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+    },
+    {
+      "sym": "USDT",
+      "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93"
+    },
+    {
+      "sym": "wrsETH",
+      "address": "0xd2671165570f41bbb3b0097893300b6eb6101e6c"
+    },
+    {
+      "sym": "CROAK",
+      "address": "0xacb54d07ca167934f57f829bee2cc665e1a5ebef"
+    },
+    {
+      "sym": "NILE",
+      "address": "0xaaaac83751090c6ea42379626435f805ddf54dc8"
+    },
+    {
+      "sym": "weETH",
+      "address": "0x1bf74c010e6320bab11e2e5a532b5ac15e0b8aa6"
+    },
+    {
+      "sym": "LINDA",
+      "address": "0x82cc61354d78b846016b559e3ccd766fa7e793d5"
+    },
+    {
+      "sym": "DAI",
+      "address": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5"
+    },
+    {
+      "sym": "wstETH",
+      "address": "0xb5bedd42000b71fdde22d3ee8a79bd49a568fc8f"
+    },
+    {
+      "sym": "BUSD",
+      "address": "0x7d43aabc515c356145049227cee54b608342c0ad"
+    },
+    {
+      "sym": "WBTC",
+      "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4"
+    },
+    {
+      "sym": "axlUSDC",
+      "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+    },
+    {
+      "sym": "STONE",
+      "address": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116"
+    },
+    {
+      "sym": "IZI",
+      "address": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747"
+    },
+    {
+      "sym": "MATIC",
+      "address": "0x265b25e22bcd7f10a5bd6e6410f10537cc7567e8"
+    },
+    {
+      "sym": "MAI",
+      "address": "0xf3b001d64c656e30a62fbaaca003b1336b4ce12a"
+    },
+    {
+      "sym": "KLIMA",
+      "address": "0xDCEFd8C8fCc492630B943ABcaB3429F12Ea9Fea2"
+    },
+    {
+      "sym": "frxETH",
+      "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d"
+    },
+    {
+      "sym": "ITP",
+      "address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31"
+    },
+    {
+      "sym": "CAKE",
+      "address": "0x0d1e753a25ebda689453309112904807625befbe"
+    },
+    {
+      "sym": "DUSD",
+      "address": "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4"
+    },
+    {
+      "sym": "USD+",
+      "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376"
+    },
+    {
+      "sym": "ankrETH",
+      "address": "0x11d8680c7f8f82f623e840130eb06c33d9f90c89"
+    },
+    {
+      "sym": "EURO3",
+      "address": "0x3f817b28da4940f018c6b5c0a11c555ebb1264f9"
+    },
+    {
+      "sym": "GRAI",
+      "address": "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487"
+    },
+    {
+      "sym": "SIS",
+      "address": "0x6ef95b6f3b0f39508e3e04054be96d5ee39ede0d"
+    },
+    {
+      "sym": "MVX",
+      "address": "0x0018d96c579121a94307249d47f053e2d687b5e7"
+    },
+    {
+      "sym": "SolvBTC",
+      "address": "0x5ffce65a40f6d3de5332766fff6a28bf491c868c"
+    },
+    {
+      "sym": "uniETH",
+      "address": "0x15eefe5b297136b8712291b632404b66a8ef4d25"
+    },
+    {
+      "sym": "AVAX",
+      "address": "0x5471ea8f739dd37e9b81be9c5c77754d8aa953e4"
+    },
+    {
+      "sym": "USDe",
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+    }
+  ],
+  "routes": []
+}
